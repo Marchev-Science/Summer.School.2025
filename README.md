@@ -162,7 +162,7 @@ For questions: angel.marchev@feb.uni-sofia.bg, +359888444062
 * Deyan Radev - SU (d.radev@feb.uni-sofia.bg)  
 * Evgeni Marinov - Bosch (marinov.evgeniy@gmail.com)   
 * Kaloyan Haralampiev - SU (k_haralampiev@hotmail.com)  
-<!--* Laura Tolosi - Teva Pharma (laura-maria.tolosi-halacheva01@teva.bg)
+<!--* Laura Tolosi - Teva Pharma (laura-maria.tolosi-halacheva01@teva.bg)-->
 * Martin Boyanov - Smule (mboyanov@gmail.com)
 * Milen Chechev - SU (milen.chechev@fmi.uni-sofia.bg)-->  
 * Mihail Motzev - WWU (Mihail.Motzev@wallawalla.edu)  
