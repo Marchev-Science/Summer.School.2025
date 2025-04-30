@@ -3,6 +3,11 @@
 The cases for this year's Summer school are going to be revieled here on the second day of the programme (17:00, 21.06.2025): 
 
 <!--
+### Storage management
+### Recommender for procurement
+### social media automation n8n, make.com
+### crypto AI
+
 ### 1. Forecasting the demand of pharmacutical products.  
 
 [Case text and data...](https://github.com/Marchev-Science/case-forecasting-pharmacutical-demand)
