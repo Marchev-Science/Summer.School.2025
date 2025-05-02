@@ -67,7 +67,7 @@ This Summer school is partially funded by:
   
 ## Application  
  
-**Location**: [The Rila Lakes Hut, Rila Mountain, Bulgaria](https://maps.app.goo.gl/Z8dcWHLX4DMoifxs8)  
+**Location**: [The Rila Lakes Lodge, Rila Mountain, Bulgaria](https://maps.app.goo.gl/Z8dcWHLX4DMoifxs8)  
 
   
 **Time**: June 20 - June 29, 2025   
@@ -91,7 +91,7 @@ Participation in the Summer school is free of charge (accomodation is partially 
 **Concept**: Intensive training in methods (not so much applications) through lectures, workshops and team work on projects.  
   
 ## Accomodation  
-**Travel**: The trip is up to the participants to organize on their own (while some coordination effort will be done for optimizing the travel organization. Everyone should arrive by **18:30, on 20 June, Friday**, at the base station of the lift.    
+**Travel**: The trip is up to the participants to organize on their own (while some coordination effort will be done for optimizing the travel organization. Everyone should arrive by **18:30, on 20 June, Friday**, at [the base station of the lift](https://maps.app.goo.gl/vxkNeV9uwThbqqWx6).    
   
 **Accommodation**: The students are accommodated in pairs / threes / fours in a room in the complex. Accomodation and full meals are aranged (the cost per person per night is to be finalized soon). Out of which reasonable part **is covered by the organizers** (further financial details will be revieled in June). The layout of the rooms will be set by the organizers and can not be changed.   
   
