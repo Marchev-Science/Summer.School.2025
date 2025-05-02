@@ -64,7 +64,7 @@ Associate Partners
 This Summer school is partially funded by:  
 * ***Science and research Fund at Sofia University***  
 * ***University of National and World Economy contract NID NF-11/2025/B***   
-
+* ***European Union-NextGenerationEU, through the National Recovery and Resilience Plan of the Republic of Bulgaria, project DUECOS BG-RRP-2.004-0001-C01***  
 
   
 ## Application  
