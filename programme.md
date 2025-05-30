@@ -28,12 +28,14 @@ You could see the [video playlist...](https://www.youtube.com/playlist?list=PLX9
 <a/>  
 
   14:00 - 15:00 Angel Marchev, Sr. - For fact based worldview (Online)  
+  
   <!-- * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
   * [materials](marchev-sr/readme.md) -->   
 
 <a/>  
 
   15:00 - 17:00 Workshop: Angel Marchev, Jr. - Introduction to software environments & GPT prompting for modeling  
+  
   <!-- * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
   * [materials](marchev-jr/readme.md) -->    
 
@@ -44,6 +46,7 @@ You could see the [video playlist...](https://www.youtube.com/playlist?list=PLX9
 
 ## **2025-06-22 Data mining**  
   09:30 - 13:00 Alexander Efremov, Kaloyan Haralampiev - Data mining: methods & main tasks  
+  
   <!-- * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
   * [materials](efremov/readme.md) -->   
 <a/>  
