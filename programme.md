@@ -5,8 +5,6 @@ Link for the online class [https://bit.ly/marchev-class](https://bit.ly/marchev-
 The programme is subject to constant change, so make sure to check it regularly. All supporting materials and recorded videos are linked in the classes.  
 You could see the [video playlist...](https://www.youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)  
 
-
-
 <!-- PLease, leave constructive feedback for each lector by filling in this anonymous form: [https://bit.ly/marchev-feedback](https://bit.ly/marchev-feedback)-->
 
 ## **2025-06-20 Openning**  
@@ -25,16 +23,19 @@ You could see the [video playlist...](https://www.youtube.com/playlist?list=PLX9
   09:30 - 13:00 Angel Marchev, Sr. - The scientific method & General Systems Theory: a systematic approach to research  
 <!--  * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)
 * [materials](marchev-sr/readme.md) -->   
+
 <a/>  
 
   14:00 - 15:00 Angel Marchev, Sr. - For fact based worldview (Online)  
   <!-- * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
   * [materials](marchev-sr/readme.md) -->   
+
 <a/>  
 
   15:00 - 17:00 Workshop: Angel Marchev, Jr. - Introduction to software environments & GPT prompting for modeling  
   <!-- * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
   * [materials](marchev-jr/readme.md) -->    
+
 <a/>  
 
 17:00 - 19:30 Workshop: Explaining the cases    
