@@ -22,7 +22,7 @@ You could see the [video playlist...](https://www.youtube.com/playlist?list=PLX9
 ## **2025-06-21 Fundamentals**  
   09:30 - 13:00 Angel Marchev, Sr. - The scientific method & General Systems Theory: a systematic approach to research  
 <!--  * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)
-* [materials](marchev-sr/readme.md) -->   
+* [materials](marchev-sr/readme.md)-->   
 
 <a/>  
 
