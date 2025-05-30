@@ -169,7 +169,7 @@ You could see the [video playlist...](https://www.youtube.com/playlist?list=PLX9
 
   
 ## **2025-06-29 Perspectives**  
-  09:30 - 11:00 Peter Nikolov - Practical introduction to quantum computing  
+  09:30 - 11:00 Peter Nikolov - Backtesting of financial models   
   <!--Sergey Vichev - RAGSQL: the concept    
   * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
   * [materials](vichev/readme.md)-->   
