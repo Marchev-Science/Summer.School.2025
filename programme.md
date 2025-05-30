@@ -210,7 +210,7 @@ You could see the [video playlist...](https://www.youtube.com/playlist?list=PLX9
 
   
 ## **2025-06-29 Perspectives**  
-  09:30 - 11:00 Peter Nikolov - Backtesting of financial models   
+  09:30 - 10:45 Peter Nikolov - Backtesting of financial models   
 
 <!-- Sergey Vichev - RAGSQL: the concept    
   * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
@@ -218,19 +218,19 @@ You could see the [video playlist...](https://www.youtube.com/playlist?list=PLX9
 
 <a/>  
 
-   11:30 - 13:00 Dimitar Lyubchev - Automating operational decisions by Neuro-evolution algorithms   
+   11:00 - 12:30 Dimitar Lyubchev - Automating operational decisions by Neuro-evolution algorithms   
 
 <!-- * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
   * [materials](pelova/readme.md) -->  
 
 <a/>  
 
-<!--
-  11:30 - 13:00 TBD  
-  Nikolay Dimitrov - FetchAI: AI + Crypto (Online)   
-  * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)  
-  * [materials](dimitrov/readme.md)   
-<a/>  -->  
+  12:30 - 13:00 Georgi Kirov - Crisp Labs - Harness the Future of AI & Data (Online)   
+  
+<!-- * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)  
+  * [materials](dimitrov/readme.md) -->   
+  
+  <a/>    
   
   14:00 - 17:00 Conference - presentation of the solutions to the case assignments   
 
