@@ -121,14 +121,14 @@ You could see the [video playlist...](https://www.youtube.com/playlist?list=PLX9
 
 <a/>  
 
-  14:00 - 16:00 Workshop: Deyan Radev - Writting a scientific article (Online)      
+  14:00 - 15:00 Boryana Pelova - A Case study with SHARE data (Online)      
 
 <!-- * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
   * [materials](radev/readme.md) -->   
 
 <a/>  
 
-  16:30 - 17:30 Boryana Pelova - A Case study with SHARE data (Online)      
+  15:30 - 17:30 Workshop: Deyan Radev - Writting a scientific article (Online)      
 
 <!-- * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
   * [materials](radev/readme.md) -->   
@@ -139,14 +139,14 @@ You could see the [video playlist...](https://www.youtube.com/playlist?list=PLX9
 
 
 ## **2025-06-26 Artificial Intelligence**  
-  09:30 - 11:00 Angel Marchev, Jr. - Introduction to artificial intelligence    
+  09:30 - 11:30 Angel Marchev, Jr. - Introduction to artificial intelligence    
 
 <!-- * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
   * [materials](marchev-jr/readme.md) -->   
 
 <a/>  
 
-  11:30 - 13:00 Yordan Madzhunkov - AI & Blockchain  
+  12:00 - 13:00 Yordan Madzhunkov - AI & Blockchain  
 
 <!-- Laura Tolosi - LLMs & NLP (Online)   
   * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
