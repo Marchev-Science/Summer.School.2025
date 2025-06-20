@@ -8,6 +8,7 @@ The cases for this year's Summer school are going to be revieled here on the sec
 ### social media automation n8n, make.com
 ### crypto AI
 ### share
+### hunger
 
 ### 1. Forecasting the demand of pharmacutical products.  
 
