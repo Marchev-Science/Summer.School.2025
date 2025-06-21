@@ -1,37 +1,26 @@
 ## The cases for this year's Summer school are:
 
-The cases for this year's Summer school are going to be revieled here on the second day of the programme (17:00, 21.06.2025): 
-
+The cases for this year's Summer school are going to be revieled here on the second day of the programme (17:00, 21.06.2025) 
 <!--
+Please, state your case preferences here: [https://forms.gle/JPxALtpeLXAyv4C77](https://forms.gle/JPxALtpeLXAyv4C77)
+
+
 ### Storage management
 ### Recommender for procurement
-### social media automation n8n, make.com
-### crypto AI
 ### share
 ### hunger
 
-### 1. Forecasting the demand of pharmacutical products.  
-
-[Case text and data...](https://github.com/Marchev-Science/case-forecasting-pharmacutical-demand)
-[Solution](cases/solution1/readme.md)
-
-### 2. Forcasting and automate trading of Crypto assets  
+### 1. Forcasting and automate trading of Crypto assets  
 
 [Case text and data...](https://github.com/Marchev-Science/case-crypto-trader)
-[Solution](cases/solution2/readme.md)  
+<!--[Solution](cases/solution1/readme.md)-->  
+<!--
+### 2. Forcasting and automate trading of Crypto assets  
 
-### 3. Classification of drone radio signature.     
+[Case text and data...](https://github.com/Marchev-Science/case-ai-digital-creator) -->   
+<!--[Solution](cases/solution2/readme.md)-->  
 
-[Case text and data...](https://github.com/Marchev-Science/case-drone-signature-classification)
-[Solution](cases/solution3/readme.md)  
-
-### 4. Automate solution of sokoban game       
-
-[Case text and data...](https://github.com/mpSchrader/gym-sokoban)
-[Solution](cases/solution4/readme.md)  
-
-
-
+<!--
 ## Delivery of the case solutions:
 
 1. Before the deadline (13:00,30.06.2024) you should deliver the solutions by sending the link of your GitHub repo, cosisting of all required files and descriptions ([send the link here...](https://forms.gle/3Gkw4rAErSFa4tFh8) )   
