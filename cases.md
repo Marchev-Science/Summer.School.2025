@@ -1,7 +1,7 @@
 ## The cases for this year's Summer school are:
 
 The cases for this year's Summer school are going to be revieled here on the second day of the programme (17:00, 21.06.2025) 
-<!--
+
 Please, state your case preferences here: [https://forms.gle/JPxALtpeLXAyv4C77](https://forms.gle/JPxALtpeLXAyv4C77)
 
 
@@ -9,36 +9,33 @@ Please, state your case preferences here: [https://forms.gle/JPxALtpeLXAyv4C77](
 
 [Case text and data...](https://github.com/Marchev-Science/case-crypto-trader)
 <!--[Solution](cases/solution1/readme.md)-->  
-<!--
+
 ### 2. Autonomous short video factory and publishing system  
 
-[Case text and data...](https://github.com/Marchev-Science/case-ai-digital-creator) -->   
+[Case text and data...](https://github.com/Marchev-Science/case-ai-digital-creator)    
 <!--[Solution](cases/solution2/readme.md)-->  
 
-<!--
 ### 3. Automated inventory management and optimization   
 
-[Case text and data...](https://github.com/Marchev-Science/case-automated-inventory-management) -->   
+[Case text and data...](https://github.com/Marchev-Science/case-automated-inventory-management)    
 <!--[Solution](cases/solution3/readme.md)-->  
 
-<!--
 ### 4. Study of longevity & Self-percieved health factors    
 
-[Case text and data...](https://github.com/Marchev-Science/case-share-self-percieved-health) -->   
+[Case text and data...](https://github.com/Marchev-Science/case-share-self-percieved-health)    
 <!--[Solution](cases/solution4/readme.md)-->  
 
 
-<!--
 ### 5. Study of nutrition hahbits with relation to food waiste       
 
-[Case text and data...](https://github.com/Marchev-Science/case-fao-nutrition-food-waste) -->   
+[Case text and data...](https://github.com/Marchev-Science/case-fao-nutrition-food-waste)    
 <!--[Solution](cases/solution5/readme.md)-->  
 
 
-<!--
+
 ## Delivery of the case solutions:
 
-1. Before the deadline (13:00,30.06.2024) you should deliver the solutions by sending the link of your GitHub repo, cosisting of all required files and descriptions ([send the link here...](https://forms.gle/3Gkw4rAErSFa4tFh8) )   
+1. Before the deadline (13:00,29.06.2025) you should deliver the solutions by sending the link of your GitHub repo, cosisting of all required files and descriptions ([send the link here...](https://forms.gle/3Gkw4rAErSFa4tFh8) )   
 2. The solution should consist of several files (4-5 max) without subfolders, at least the following:  
 * Code / workflow files which could be run on some of the required software for the summer school.  
 In the code or in additional files (or markdown texts) there should be:  
@@ -57,5 +54,5 @@ In the code or in additional files (or markdown texts) there should be:
 5. Each team will be given about 15-20 minutes to present their solutions followed by Q&A session.  
 
 
--->
+
 
