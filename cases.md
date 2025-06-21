@@ -5,8 +5,6 @@ The cases for this year's Summer school are going to be revieled here on the sec
 Please, state your case preferences here: [https://forms.gle/JPxALtpeLXAyv4C77](https://forms.gle/JPxALtpeLXAyv4C77)
 
 
-### hunger
-
 ### 1. Forcasting and automate trading of Crypto assets  
 
 [Case text and data...](https://github.com/Marchev-Science/case-crypto-trader)
@@ -31,10 +29,10 @@ Please, state your case preferences here: [https://forms.gle/JPxALtpeLXAyv4C77](
 
 
 <!--
-### 5. Study of nutrition hahbits    
+### 5. Study of nutrition hahbits with relation to food waiste       
 
-[Case text and data...](https://github.com/Marchev-Science/case-share-self-percieved-health) -->   
-<!--[Solution](cases/solution4/readme.md)-->  
+[Case text and data...](https://github.com/Marchev-Science/case-fao-nutrition-food-waste) -->   
+<!--[Solution](cases/solution5/readme.md)-->  
 
 
 <!--
