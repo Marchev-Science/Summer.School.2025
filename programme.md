@@ -47,15 +47,15 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
 ## **2025-06-22 Data mining**  
   09:30 - 13:00 Alexander Efremov, Kaloyan Haralampiev - Data mining: methods & main tasks  
 
-<!-- * [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
-  * [materials](efremov/readme.md)-->   
+* [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
+* [materials](efremov/readme.md)   
 
 <a/>  
 
   14:00 - 17:00 Workshop: Kaloyan Haralampiev - Introduction to Orange with static data  
 
-<!-- * [video](* [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
-  * [materials](haralampiev/readme.md)-->   
+* [video](* [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
+* [materials](haralampiev/readme.md)   
 
 <a/>  
 
