@@ -52,35 +52,37 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
 
 <a/>  
 
-  14:00 - 17:00 Workshop: Kaloyan Haralampiev - Introduction to Orange with static data  
+  14:00 - 17:30 Workshop: Kaloyan Haralampiev - Introduction to Orange with static data  
 
-* [video](* [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
+* [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
 * [materials](haralampiev/readme.md)   
 
 <a/>  
 
-  17:00 - 19:30 Workshop: Teamwork on case assignments  
+  17:30 - 17:30 Group photo  
+  
+  18:00 - 19:30 Workshop: Teamwork on case assignments  
   
 
 ## **2025-06-23 Probabilities**  
   09:30 - 11:00 Radoslav Rusinov - Introduction to probability  
 
-<!-- * [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
-  * [materials](spasova/readme.md) -->   
+* [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
+* [materials](rusinov/readme.md)   
 
 <a/>
 
   11:30 - 13:00 Kaloyan Haralampiev - Bayesian paradigm  
 
-<!-- * [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
-  * [materials](rusinov/readme.md) -->   
+* [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
+* [materials](haralampiev/readme.md)   
 
 <a/>  
 
    14:00 - 17:00 Kaloyan Haralampiev, Angel Marchev, Jr. - Time series analysis basics & Case study   
 
-<!-- * [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
-   * [materials](marchev-jr/readme.md) -->   
+* [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
+* [materials](marchev-jr/readme.md) -->   
 
 <a/>  
 
@@ -90,15 +92,15 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
 ## **2023-06-24 Complexity**  
   09:30 - 13:00 Angel Marchev, Sr. - Cybernetics studying complex systems with feedback  
 
-<!-- * [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
-  * [materials](marchev-sr/readme.md) -->   
+* [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
+* [materials](marchev-sr/readme.md) -->   
 
 <a/>  
 
-  14:00 - 17:00 Workshop: Alexander Efremov - Automation in retail - AI-base inventory management      
+  14:00 - 17:00 Workshop: Alexander Efremov - Automation in credit scoring      
 
-<!-- * [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
-  * [materials](radev/readme.md) -->   
+* [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
+* [materials](efremov/readme.md)   
 
 <a/>  
 
@@ -109,29 +111,29 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
 
   09:30 - 11:00 Workshop: Angel Marchev, Jr. - Feature engineering  
 
-<!-- * [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
-  * [materials](marchev-jr/readme.md) -->   
+* [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
+* [materials](marchev-jr/readme.md)   
 
 <a/>  
 
   11:30 - 13:00 Milen Chechev - Current forecasting approaches and challenges (Online)  
 
-<!--  * [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
-  * [materials](chechev/readme.md) -->   
+* [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
+* [materials](chechev/readme.md)   
 
 <a/>  
 
   14:00 - 15:00 Boryana Pelova - A Case study with SHARE data (Online)      
 
-<!-- * [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
-  * [materials](radev/readme.md) -->   
+* [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
+* [materials](pelova/readme.md)   
 
 <a/>  
 
   15:30 - 17:30 Workshop: Deyan Radev - Writting a scientific article (Online)      
 
-<!-- * [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
-  * [materials](radev/readme.md) -->   
+* [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
+* [materials](radev/readme.md)   
 
 <a/>  
 
@@ -141,23 +143,23 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
 ## **2025-06-26 Artificial Intelligence**  
   09:30 - 11:30 Angel Marchev, Jr. - Introduction to artificial intelligence    
 
-<!-- * [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
-  * [materials](marchev-jr/readme.md) -->   
+* [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
+* [materials](marchev-jr/readme.md)   
 
 <a/>  
 
   12:00 - 13:00 Yordan Madzhunkov - AI & Blockchain  
 
-<!-- 
+
   * [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
-  * [materials](tolosi/readme.md) -->   
+  * [materials](madzunkov/readme.md)   
 
 <a/>  
 
   14:00 - 17:00 Workshop: Demir Tonchev - Workshop: Make your own AI      
 
-<!-- * [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
-  * [materials](tonchev/readme.md) -->   
+* [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
+* [materials](tonchev/readme.md)   
 
 <a/>  
 
@@ -168,22 +170,22 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
 ## **2025-06-27 Artificial Neural Networks**  
   09:30 - 11:00 Stanimir Kabaivanov - Introduction to Artificial Neural Networks (Online)  
 
-<!-- * [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
-  * [materials](kabaivanov/readme.md) -->   
+* [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
+* [materials](kabaivanov/readme.md)   
 
 <a/>  
 
   11:30 - 13:00 Mihail Motzev - Statistical Learning Networks (Online)  
 
-<!-- * [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
-  * [materials](motzev/readme.md) -->   
+* [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
+* [materials](motzev/readme.md)   
 
 <a/>  
 
   14:00 - 17:00 Workshop: Denitza Gavrailova - Graph artificial neural networks (Online)  
 
-<!-- * [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
-  * [materials](marinov/readme.md) -->   
+* [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
+* [materials](gavrailova/readme.md)   
 
 <a/>  
 
@@ -194,15 +196,15 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
 ## **2025-06-28 Self-organization & adaptation**  
   09:30 - 13:00 Angel Marchev, Sr., Angel Marchev, Jr. - Multi-stage selection procedure and Self-organization   
 
-<!-- * [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
-  * [materials](marchev-sr/readme.md) -->   
+* [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
+* [materials](marchev-sr/readme.md)   
 
 <a/>  
 
   14:00 - 17:00 Workshop: Pavel Nikolov - Evolutionary alghorithm for hyperparameter optimization  
 
-<!-- * [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
-  * [materials](nikolov-pa/readme.md) -->   
+* [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
+* [materials](nikolov-pa/readme.md)   
 
 <a/>  
 
@@ -212,34 +214,32 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
 ## **2025-06-29 Perspectives**  
   09:30 - 10:45 Peter Nikolov - Backtesting of financial models   
 
-<!--   
-  * [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
-  * [materials](vichev/readme.md) -->   
+* [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
+* [materials](nikolov-pe/readme.md)   
 
 <a/>  
 
    11:00 - 12:30 Dimitar Lyubchev - Automating operational decisions by Neuro-evolution algorithms   
 
-<!-- * [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
-  * [materials](lyubchev/readme.md) -->  
+* [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
+* [materials](lyubchev/readme.md)  
 
 <a/>  
 
   12:30 - 13:00 Georgi Kirov - Crisp Labs - Harness the Future of AI & Data (Online)   
   
-<!-- * [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
-  * [materials](dimitrov/readme.md) -->   
   
-  <a/>    
+  13:00 - 13:00 Group photo  
+<a/>    
   
-  14:00 - 17:00 Conference - presentation of the solutions to the case assignments   
+  14:00 - 16:00 Conference - presentation of the solutions to the case assignments   
 
-<!-- * [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
-  * [solution 1](cases/solution1/readme.md)  
-  * [solution 2](cases/solution2/readme.md)  
-  * [solution 3](cases/solution3/readme.md)  
-  * [solution 4](cases/solution4/readme.md)  
-  * [solution 4](cases/solution4/readme.md)-->    
+* [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
+* [solution 1](cases/solution1/readme.md)  
+* [solution 2](cases/solution2/readme.md)  
+* [solution 3](cases/solution3/readme.md)  
+* [solution 4](cases/solution4/readme.md)  
+* [solution 4](cases/solution5/readme.md)    
 
 <a/>  
 
