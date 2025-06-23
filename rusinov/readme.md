@@ -1,4 +1,4 @@
-Lecture:  
+Lecture (from 2024):  
 [ProbabilityReview24.pdf](ProbabilityReview24.pdf)  
 
 Materials:  
@@ -9,3 +9,4 @@ Materials:
 [ProbabilityTheory-2nd_edition-2014.pdf](ProbabilityTheory-2nd_edition-2014.pdf)  
 [an-introduction-to-probability-theory-and-its-applications.pdf](an-introduction-to-probability-theory-and-its-applications.pdf)  
 [introduction-to-probability-theory.pdf](introduction-to-probability-theory.pdf)  
+[Боян Димитров, Николай Янев, Вероятности и статистика](Боян-Димитров-Николай-Янев-Вероятности-и-статистика.pdf)
