@@ -110,7 +110,7 @@ After 17:00 working on team assignment"
 3) Presented paper at a conference or seminar, showcasing knowledge and skills educated throughout the Summer school.  
 Note: Participants who cannot take part fulltime and/or would not comply with the requirements can also join classes, but will not receive a certificate.  
   
-<img src="img/summer-school-2025.jpg" width="100%">  
+<img src="img/summer-school-2025-class.jpg" width="100%">  
   
 ## Technical requirements  
 Apart from concentrating during the classes, the aproved participants should make sure to be equipped with a **personal computer (not mobile device)** installed with (all these have compatible versions for any operation system):  
@@ -191,7 +191,7 @@ Summer School on Modeling, AI and Complex Systems
 ## Cases  
 The cases for this year's Summer school are [revieled here...](cases.md) at the start of the Summer school. 
 
-<!--<img src="img/summer-school-2024.jpg" width="100%">-->
+<!--<img src="img/summer-school-2025-2.jpg" width="100%">-->
 
 
 ## Programme  
