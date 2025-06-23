@@ -1,7 +1,7 @@
 
 # Summer School on Modeling, AI, and Complex Systems '2025
 
-<img src="img/summer-school-2025-1.jpg" width="100%">
+<img src="img/summer-school-2025-1.jpg" width="80%">
 <!-- <img src="https://preotkrii.bg/wp-content/uploads/2022/09/70358045_2931602786868277_6439002884125229056_n.jpg" width="100%"> -->  
 
 **Organized by**
