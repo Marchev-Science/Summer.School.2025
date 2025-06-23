@@ -1,8 +1,8 @@
 
 # Summer School on Modeling, AI, and Complex Systems '2025
 
-<!-- <img src="img/summer-school-2024-2.jpg" width="100%"> -->
-<img src="https://preotkrii.bg/wp-content/uploads/2022/09/70358045_2931602786868277_6439002884125229056_n.jpg" width="100%">
+<img src="img/summer-school-2025-1.jpg" width="100%">
+<!-- <img src="https://preotkrii.bg/wp-content/uploads/2022/09/70358045_2931602786868277_6439002884125229056_n.jpg" width="100%"> -->  
 
 **Organized by**
 
@@ -31,14 +31,14 @@
 <table cellspacing="0" cellpadding="0" border="0">
   <tr>
     <th><img src="https://media.licdn.com/dms/image/v2/D4D0BAQGP-seUlJJh_w/company-logo_200_200/company-logo_200_200/0/1680427640322?e=1752710400&v=beta&t=kImvnJbqS-Tj1cJG3fmO5hzDwXwXAT3k2-Sa53ZO9V8" width="200"></th>
-    <!--<th><img src="img/manasievi.jpg" width="200"></th> -->
+    <th><img src="img/KBC_GS_logo_colors_RGB.png" width="200"></th>   
     <th><a href="mailto:angel.marchev@feb.uni-sofia.bg?subject=SummerSchoolPartnership"><img src="https://www.ethicalreading.org.uk/wp-content/uploads/2023/02/PARTNERAsset-48.svg" width="200"></a></th>
   </tr>
   <tr>
     <td>Crisp Labs<br><a href="https://www.crisplabs.ai/">https://www.crisplabs.ai/</a></td>
-    <!--
+    
     <td>Svetlozar & Emanuil Manasievi</td>
-    -->
+    
     <td></td>
   </tr>
  </table>
