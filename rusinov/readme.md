@@ -1,5 +1,6 @@
 Lecture (from 2024):  
 [ProbabilityReview24.pdf](ProbabilityReview24.pdf)  
+[Seeing theory](https://seeing-theory.brown.edu/)
 
 Materials:  
 [2011-01-06-LectureNotesNEW.pdf](2011-01-06-LectureNotesNEW.pdf)  
