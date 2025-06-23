@@ -36,9 +36,7 @@
   </tr>
   <tr>
     <td>Crisp Labs<br><a href="https://www.crisplabs.ai/">https://www.crisplabs.ai/</a></td>
-    
     <td>KBC Bank Bulgaria<br><a href="https://www.ubb.bg/">https://www.ubb.bg/</a></td>
-    
     <td></td>
   </tr>
  </table>
