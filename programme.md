@@ -65,7 +65,7 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
   
 
 ## **2025-06-23 Probabilities**  
-  09:30 - 11:00 Radoslav Rusinov - Introduction to probability  
+  09:30 - 11:00 Mladen Savov - Introduction to probability (recorded)  
 
 * [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
 * [materials](rusinov/readme.md)   
@@ -82,7 +82,7 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
    14:00 - 17:00 Kaloyan Haralampiev, Angel Marchev, Jr. - Time series analysis basics & Case study   
 
 * [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
-* [materials](marchev-jr/readme.md) -->   
+* [materials](marchev-jr/readme.md)    
 
 <a/>  
 
@@ -109,7 +109,7 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
 
 ## **2025-06-25 Applications**  
 
-  09:30 - 11:00 Workshop: Angel Marchev, Jr. - Feature engineering  
+  09:30 - 11:00 Angel Marchev, Jr. - Feature engineering  
 
 * [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
 * [materials](marchev-jr/readme.md)   
