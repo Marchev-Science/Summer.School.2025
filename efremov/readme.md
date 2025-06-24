@@ -6,6 +6,8 @@ Kalman filter:
 [kfilt.py](kfilt.py)   
 [main.py](main.py)   
 [main_gen.py](main_gen.py)   
+[data.csv](data.csv)   
+
 
 
 
