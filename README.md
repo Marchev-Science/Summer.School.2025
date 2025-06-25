@@ -124,6 +124,7 @@ Apart from concentrating during the classes, the aproved participants should mak
 <!--* KNIME [https://www.knime.com/downloads](https://www.knime.com/downloads)-->  
 * Registration in Github [https://github.com](https://github.com)
 * Registration in ChatGPT (preferably paid) [https://chat.openai.com](https://chat.openai.com)
+* Registration in Hugging Face [https://huggingface.co/](https://huggingface.co/)   
 <!--* Zoom [https://zoom.com](https://zoom.com) with installed personal photo-->  
 
 <a/>
