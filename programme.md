@@ -201,45 +201,49 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
 
 <a/>  
 
-  14:00 - 17:00 Workshop: Pavel Nikolov - Evolutionary alghorithm for hyperparameter optimization  
+  14:00 - 16:00 Workshop: Pavel Nikolov - Evolutionary alghorithm for hyperparameter optimization  
 
 * [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
 * [materials](nikolov-pa/readme.md)   
 
 <a/>  
 
-  17:30 - 19:30 Workshop: Teamwork on case assignments    
-
-  
-## **2025-06-29 Perspectives**  
-  09:30 - 10:45 Peter Nikolov - Backtesting of financial models   
+16:30 - 17:30 Peter Nikolov - Backtesting of financial models   
 
 * [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
 * [materials](nikolov-pe/readme.md)   
 
+<a/>. 
+
+17:30 - 18:00 Group photo  
 <a/>  
 
-   11:00 - 12:30 Dimitar Lyubchev - Automating operational decisions by Neuro-evolution algorithms   
+  18:00 - 19:30 Workshop: Teamwork on case assignments    
+
+  
+## **2025-06-29 Perspectives**  
+    
+
+   9:30 - 11:00 Dimitar Lyubchev - Automating operational decisions by Neuro-evolution algorithms   
 
 * [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
 * [materials](lyubchev/readme.md)  
 
 <a/>  
 
-  12:30 - 13:00 Georgi Kirov - Crisp Labs - Harness the Future of AI & Data (Online)   
+  11:00 - 11:30 Georgi Kirov - Crisp Labs - Harness the Future of AI & Data (Online)   
   
   
-  13:00 - 13:00 Group photo  
-<a/>    
+    
   
-  14:00 - 16:00 Conference - presentation of the solutions to the case assignments   
+  12:30 - 16:00 Conference - presentation of the solutions to the case assignments   
 
 * [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
 * [solution 1](cases/solution1/readme.md)  
 * [solution 2](cases/solution2/readme.md)  
 * [solution 3](cases/solution3/readme.md)  
 * [solution 4](cases/solution4/readme.md)  
-* [solution 4](cases/solution5/readme.md)    
+* [solution 5](cases/solution5/readme.md)    
 
 <a/>  
 
