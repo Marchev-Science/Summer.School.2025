@@ -148,7 +148,7 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
 
 <a/>  
 
-  12:00 - 13:00 Yordan Madzhunkov - AI & Blockchain  
+  12:00 - 13:00 Yordan Madzhunkov - How to generate an image  
 
 
   * [video](https://youtube.com/playlist?list=PLX9ryRl9v7BC72Zt6m_PoPJWU2zEHnvYN)   
