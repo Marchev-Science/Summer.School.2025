@@ -35,7 +35,7 @@ Please, state your case preferences here: [https://forms.gle/JPxALtpeLXAyv4C77](
 
 ## Delivery of the case solutions:
 
-1. Before the deadline (13:00,29.06.2025) you should deliver the solutions by sending the link of your GitHub repo, cosisting of all required files and descriptions ([send the link here...](https://forms.gle/3Gkw4rAErSFa4tFh8) )   
+1. Before the deadline (12:00,29.06.2025) you should deliver the solutions by sending the link of your GitHub repo, cosisting of all required files and descriptions ([send the link here...](https://forms.gle/3Gkw4rAErSFa4tFh8) )   
 2. The solution should consist of several files (4-5 max) without subfolders, at least the following:  
 * Code / workflow files which could be run on some of the required software for the summer school.  
 In the code or in additional files (or markdown texts) there should be:  
