@@ -6,7 +6,7 @@ Introduction to data modeling environments:
 [julia-mpu.ipynb](julia-mpu.ipynb)  
 
 Time series:  
-[Time series analysis.pptx](Time series analysis.pptx)  
+[Time series analysis.pptx](Time_series_analysis.pptx)  
 [sarimax-text.pdf](sarimax-text.pdf)  
 
 Feature engineering:    
