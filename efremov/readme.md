@@ -8,7 +8,8 @@ Kalman filter:
 [main_gen.py](main_gen.py)   
 [data.csv](data.csv)   
 
-
+Textbook by Efremov:  
+[MonografiaAE_II.pdf](MonografiaAE_II.pdf)
 
 
 
