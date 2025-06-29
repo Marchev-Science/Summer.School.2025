@@ -8,28 +8,28 @@ Please, state your case preferences here: [https://forms.gle/JPxALtpeLXAyv4C77](
 ### 1. Forcasting and automate trading of Crypto assets  
 
 [Case text and data...](https://github.com/Marchev-Science/case-crypto-trader)
-<!--[Solution](cases/solution1/readme.md)-->  
+[Solution](cases/solution1/readme.md)  
 
 ### 2. Autonomous short video factory and publishing system  
 
 [Case text and data...](https://github.com/Marchev-Science/case-ai-digital-creator)    
-<!--[Solution](cases/solution2/readme.md)-->  
+[Solution](cases/solution2/readme.md)  
 
 ### 3. Automated inventory management and optimization   
 
 [Case text and data...](https://github.com/Marchev-Science/case-automated-inventory-management)    
-<!--[Solution](cases/solution3/readme.md)-->  
+[Solution](cases/solution3/readme.md)  
 
 ### 4. Study of longevity & Self-percieved health factors    
 
 [Case text and data...](https://github.com/Marchev-Science/case-share-self-percieved-health)    
-<!--[Solution](cases/solution4/readme.md)-->  
+[Solution](cases/solution4/readme.md)  
 
 
 ### 5. Study of nutrition hahbits with relation to food waiste       
 
 [Case text and data...](https://github.com/Marchev-Science/case-fao-nutrition-food-waste)    
-<!--[Solution](cases/solution5/readme.md)-->  
+[Solution](cases/solution5/readme.md)  
 
 
 
