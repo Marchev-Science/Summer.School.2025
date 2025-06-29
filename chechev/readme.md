@@ -1,1 +1,1 @@
-[Modern_Forecasting_for_Summer_Phd_school](https://docs.google.com/presentation/d/1FlNQUrCQTjoMyvRYpgPt0L66NLAvCenTsARZ5Vn10w8/edit?usp=sharing)
+[Modern_Forecasting_for_Summer_Phd_school](2025-06-25-Modern_Forecasting_for_Summer_Phd_school.pdf)
