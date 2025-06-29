@@ -12,7 +12,7 @@ Good examples
 [Global_Banks_Regulation_Radev_22Feb2022_main.pdf](Global_Banks_Regulation_Radev_22Feb2022_main.pdf)   
 [Barth_Radev_JBF_2022.pdf](Barth_Radev_JBF_2022.pdf)   
 
-Assignment
+Assignment  
 [Radev_Penev_CReview_2024_v1.pdf](Radev_Penev_CReview_2024_v1.pdf)   
 
 
