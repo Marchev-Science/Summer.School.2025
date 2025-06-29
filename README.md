@@ -32,11 +32,13 @@
   <tr>
     <th><img src="https://media.licdn.com/dms/image/v2/D4D0BAQGP-seUlJJh_w/company-logo_200_200/company-logo_200_200/0/1680427640322?e=1752710400&v=beta&t=kImvnJbqS-Tj1cJG3fmO5hzDwXwXAT3k2-Sa53ZO9V8" width="200"></th>
     <th><img src="img/KBC_GS_logo_colors_RGB.png" width="200"></th>   
+    <th></th>   
     <th><a href="mailto:angel.marchev@feb.uni-sofia.bg?subject=SummerSchoolPartnership"><img src="https://www.ethicalreading.org.uk/wp-content/uploads/2023/02/PARTNERAsset-48.svg" width="200"></a></th>
   </tr>
   <tr>
     <td>Crisp Labs<br><a href="https://www.crisplabs.ai/">https://www.crisplabs.ai/</a></td>
     <td>KBC Bank Bulgaria<br><a href="https://www.ubb.bg/">https://www.ubb.bg/</a></td>
+    <td>Radoslav Rusinov</td>   
     <td></td>
   </tr>
  </table>
